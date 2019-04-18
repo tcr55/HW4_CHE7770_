@@ -2,13 +2,14 @@
 
 ---------------------------------
 # Inside this folder are four Matlab files, an excel file, and a PDF of the written work
- run.m
- Balances.m
- Balances2.m
- Balances3.m
- HW4.xlsx
- Written.PDf
- 
+ * run.m
+ * Balances.m
+ * Balances2.m
+ * Balances3.m
+ * HW4.xlsx
+ * Written.PDf
+ # Written
+ This file holds all of the derivation in part 3, written equations for part 3, and solving for hald max and hill coeffiencts in question 1, the explinations for question 2, and the discussion for question 4 
  # Excel
  For the Part 1 the excell has all of the linear data fits and hald max values and solver for maximisizing x to prove its maximum
  # Matlab
